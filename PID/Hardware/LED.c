@@ -1,0 +1,10 @@
+#include "stm32f10x.h"                  // Device header
+
+void LED_Init(void)
+{
+	RCC_APP
+	
+	
+	
+	
+}
